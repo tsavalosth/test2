@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/3814b24edbf7092f40130c6b12baaf7d/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

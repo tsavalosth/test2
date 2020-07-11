@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mk/AndroidStudioProjects/android-maps-utils/library/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/mk/.gradle/caches/transforms-2/files-2.1/83da4fb16c40d50733fed34e76b10a07/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    }
+]
